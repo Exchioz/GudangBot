@@ -1,0 +1,63 @@
+## FAQ Chatbot Perusahaan Jual Beli
+
+### 1. Tentang Perusahaan
+**Q: Apa nama perusahaan ini?**  
+A: Nama perusahaan ini adalah XYZ Marketplace, sebuah platform jual beli terpercaya yang melayani pelanggan di seluruh Indonesia.
+
+**Q: Apa saja kategori produk yang tersedia?**  
+A: Kami menyediakan berbagai kategori produk, termasuk elektronik, fashion, kesehatan, kecantikan, perlengkapan rumah tangga, otomotif, dan masih banyak lagi.
+
+**Q: Bagaimana cara mendaftar sebagai pelanggan?**  
+A: Anda dapat mendaftar dengan mengunjungi situs web kami di www.xyzmarketplace.com, klik "Daftar", lalu isi informasi yang diperlukan seperti nama, email, dan kata sandi.
+
+**Q: Apakah ada biaya untuk mendaftar?**  
+A: Tidak, pendaftaran di platform kami sepenuhnya gratis.
+
+### 2. Pembelian dan Pembayaran
+**Q: Bagaimana cara melakukan pembelian di platform ini?**  
+A: Anda cukup memilih produk yang diinginkan, tambahkan ke keranjang, lalu lanjutkan ke halaman checkout untuk menyelesaikan pembayaran.
+
+**Q: Metode pembayaran apa saja yang diterima?**  
+A: Kami menerima berbagai metode pembayaran, termasuk transfer bank, kartu kredit, e-wallet seperti OVO dan GoPay, serta metode COD (Cash on Delivery) untuk beberapa produk tertentu.
+
+**Q: Apakah transaksi di platform ini aman?**  
+A: Ya, kami menggunakan enkripsi SSL dan bekerja sama dengan penyedia layanan pembayaran terpercaya untuk memastikan keamanan transaksi Anda.
+
+**Q: Bisakah saya membatalkan pesanan setelah melakukan pembayaran?**  
+A: Pembatalan pesanan hanya dapat dilakukan sebelum pesanan dikirim. Jika sudah dalam proses pengiriman, Anda perlu mengajukan permintaan pengembalian setelah menerima produk.
+
+### 3. Pengiriman dan Pengembalian
+**Q: Berapa lama waktu pengiriman?**  
+A: Waktu pengiriman tergantung pada lokasi dan metode pengiriman yang dipilih. Biasanya, pengiriman reguler memakan waktu 2-5 hari kerja.
+
+**Q: Apakah saya bisa melacak pesanan saya?**  
+A: Ya, setelah pesanan dikirim, Anda akan menerima nomor resi yang dapat digunakan untuk melacak status pengiriman melalui situs ekspedisi yang bersangkutan.
+
+**Q: Bagaimana jika saya menerima produk yang rusak atau tidak sesuai?**  
+A: Jika Anda menerima produk yang rusak atau tidak sesuai, Anda dapat mengajukan permintaan pengembalian dalam waktu 7 hari setelah menerima barang. Tim kami akan membantu proses pengembalian dan penggantian produk.
+
+### 4. Keamanan dan Privasi
+**Q: Bagaimana kebijakan privasi perusahaan ini?**  
+A: Kami berkomitmen untuk melindungi data pribadi pelanggan. Informasi lebih lanjut dapat ditemukan di halaman Kebijakan Privasi kami.
+
+**Q: Apakah informasi kartu kredit saya aman?**  
+A: Ya, kami menggunakan sistem pembayaran yang terenkripsi dan tidak menyimpan informasi kartu kredit pelanggan.
+
+### 5. Layanan Pelanggan
+**Q: Bagaimana cara menghubungi layanan pelanggan?**  
+A: Anda dapat menghubungi layanan pelanggan kami melalui email support@xyzmarketplace.com atau melalui fitur live chat di situs web kami.
+
+**Q: Jam operasional layanan pelanggan?**  
+A: Layanan pelanggan kami beroperasi setiap hari dari pukul 08.00 hingga 22.00 WIB.
+
+### 6. Program Loyalti dan Promo
+**Q: Apakah ada program loyalitas untuk pelanggan?**  
+A: Ya, kami memiliki program loyalitas di mana pelanggan dapat mengumpulkan poin dari setiap pembelian dan menukarkannya dengan diskon atau hadiah menarik.
+
+**Q: Bagaimana cara mendapatkan promo terbaru?**  
+A: Anda dapat berlangganan newsletter kami atau mengikuti media sosial kami untuk mendapatkan informasi terbaru mengenai promo dan diskon.
+
+...
+
+(Dokumen ini bisa diperpanjang dengan lebih banyak informasi terkait kebijakan, skema refund, garansi produk, dan lainnya sesuai kebutuhan chatbot.)
+
