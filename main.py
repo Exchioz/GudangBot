@@ -1,20 +1,22 @@
-from agents.settings import Settings
-from agents.react_agent import ReActAgent
+from config.settings import Settings
+from llm.classifier import Classifier
 
-def main():
+def main(query: str):
     settings = Settings()
-    agent = ReActAgent(
-        openai_base_url=settings.OPENAI_BASE_URL,
+    llm = Classifier(
+        openai_api_url=settings.OPENAI_API_URL,
+        openai_api_key=settings.OPENAI_API_KEY,
         openai_llm_model=settings.OPENAI_LLM_MODEL,
-        openai_api_key=settings.OPENAI_API_KEY
+        openai_embed_model=settings.OPENAI_EMBED_MODEL,
+        company_name=settings.COMPANY_NAME,
     )
-    query = str(input("Masukan pertanyaan anda: "))
-    output = agent.run(
-        sys_prompt=settings.SYSTEM_PROMPT,
+
+    response = llm.run(
+        prompt=settings.SYSTEM_PROMPT,
         query=query
     )
-    return output
-
+    print(response)
 
 if __name__ == '__main__':
-    main()
+    query = str(input("Masukan pertanyaan anda: "))
+    main(query)
