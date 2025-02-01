@@ -8,6 +8,7 @@ class Prompt:
         
         Output:
         - input : {input}
+        - context: mengambil kata kunci dari input (item).
         - classification:
             barang: jika teks mengenai pengecekan barang di database.
             perusahaan: jika teks mengenai perusahaan {company_name}.
