@@ -1,10 +1,10 @@
 from config.settings import Settings
-from llm.classifier import Classifier
+from llm.response import ResponseHandler
 
 def main(query: str):
     settings = Settings()
 
-    llm = Classifier(
+    llm = ResponseHandler(
         company_name=settings.COMPANY_NAME,
         openai_api_url=settings.OPENAI_API_URL,
         openai_api_key=settings.OPENAI_API_KEY,
@@ -18,7 +18,8 @@ def main(query: str):
     )
 
     response = llm.run(
-        prompt=settings.SYSTEM_PROMPT,
+        sys_cls_prompt=settings.CLASSIFICATION_PROMPT,
+        sys_gen_prompt=settings.GENERATE_PROMPT,
         query=query
     )
     print(response)
